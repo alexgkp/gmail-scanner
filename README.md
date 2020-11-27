@@ -1,2 +1,2 @@
-# gmail-scanner
-scan
+fluxion1
+lazy-script
